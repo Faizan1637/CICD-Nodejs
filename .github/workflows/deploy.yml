@@ -4,7 +4,7 @@ on:
     branches:
       - main
       - dev
-env: |
+env: 
   MONGODB_DB_NAME: MY_DB
   PORT: 8080
 jobs:
