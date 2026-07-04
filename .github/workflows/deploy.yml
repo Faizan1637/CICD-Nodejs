@@ -5,7 +5,7 @@ on:
       - main
       - dev
 env: 
-  MONGODB_DB_NAME: MY_DB
+  MONGODB_DB_NAME: Cluster0
   PORT: 8080
 jobs:
   test:
